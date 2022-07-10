@@ -1,4 +1,5 @@
 ## Share Profile 👥
+
 ### Getting Started
 
 - clone the repository
@@ -9,7 +10,9 @@ yarn
 #or
 yarn install
 ```
+
 and
+
 ```bash
 yarn dev
 ```
