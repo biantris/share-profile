@@ -15,16 +15,17 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to
-          <a 
-            href="https://github.com/biantris/share_profile"
+          <a
+            href="https://github.com/biantris/share-profile"
             target="_blank"
             rel="noopener noreferrer"
-          > Share Profile!</a>
+          >
+            {" "}
+            Share Profile!
+          </a>
         </h1>
 
-        <p className={styles.description}>
-          Profiles
-        </p>
+        <p className={styles.description}>Profiles</p>
 
         {/* <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
@@ -55,7 +56,6 @@ const Home: NextPage = () => {
             </p>
           </a>
         </div> */}
-
       </main>
 
       <footer className={styles.footer}>
