@@ -1,12 +1,12 @@
 ## Share Profile 👥
 
 ### Stack
-- [ ] next js
+- [x] next js
 - [ ] api-routes-rest
-- [ ] auth
+- [x] auth
 - [ ] mongoDB
 - [ ] mongoose
-- [ ] tailwind css
+- [x] tailwind css
 
 ### Getting Started
 
