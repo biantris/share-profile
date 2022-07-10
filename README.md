@@ -1,5 +1,13 @@
 ## Share Profile 👥
 
+### Stack
+- [ ] next js
+- [ ] api-routes-rest
+- [ ] auth
+- [ ] mongoDB
+- [ ] mongoose
+- [ ] tailwind css
+
 ### Getting Started
 
 - clone the repository
@@ -19,4 +27,4 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000)
 
-Demo: [share-profile.vercel.app](https://share-profile.vercel.app/)
+#### 🔗 Demo: [share-profile.vercel.app](https://share-profile.vercel.app/)
