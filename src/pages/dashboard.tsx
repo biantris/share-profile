@@ -8,8 +8,8 @@ import { AuthContext } from "../context/AuthContext";
 // import { getAPIClient } from "../service/axios";
 import { api } from "../service/api";
 
-const navigation = ["Dashboard", "Team", "Projects", "Calendar", "Reports"];
-const profile = ["Your Profile", "Settings"];
+const navigation = ["Dashboard"];
+const profile = ["Your Profile"];
 
 const classNames = (...classes: string[]) => {
   return classes.filter(Boolean).join(" ");
@@ -118,8 +118,9 @@ const Dashboard = () => {
                                 </Menu.Item>
                               ))}
                               <Menu.Item>
+                                {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
                                 <a
-                                  href="#"
+                                  href="/"
                                   className="block px-4 py-2 text-sm text-gray-700"
                                 >
                                   Sign out
