@@ -1,9 +1,9 @@
-<p align="center">
-    <img width="100" src="/img/profile-share.png" />
-</p>
+<div align="center">
+    <img width="90" src="public/img/profile-share.png" />
+</div>
 
 <div align="center">
-<h1> Share Profile 👥</h1>
+<h1> Share Profile</h1>
 </div>
 
 ### Tools
