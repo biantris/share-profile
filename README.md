@@ -1,4 +1,4 @@
-## Share Location
+## Share Profile 👥
 ### Getting Started
 
 - clone the repository
